@@ -1,0 +1,12 @@
+src/
+ └── main/
+     ├── model/
+     │     ├── Person.java
+     │     └── Student.java
+     ├── thread/
+     │     └── LoadingThread.java
+     ├── interfaces/
+     │     └── Actions.java
+     ├── manager/
+     │     └── StudentManager.java
+     └── Main.java
